@@ -1,0 +1,48 @@
+Mohammadali Sarfaraz Makadi
+Phone-Alt+91 97665 00232 | Envelopemohammadalimakadi@gmail.com | LINKEDIN/in/mohammadali-makadi | Map-marker-altSangli,
+Maharashtra, India
+Professional Summary
+Detail-oriented B.T ech Computer Science Engineering student with hands-on experience as an Assistant Web Developer
+using HTML, CSS, and JavaScript, and project work in Io T and embedded systems. Strong foundation in C, Python,
+ASP .NET , and DevOps concepts, with leadership experience as President of the Quickheal Cyberwarrior Club driving
+cybersecurity awareness on campus. Eager to contribute technical and problem-solving skills to entry-level software or
+web development roles.
+EXPERIENCE
+Starktech Ventures Private Limited Sep 2022 – Sep 2023
+Assistant Web Developer Ishwarpur, Sangli, Maharashtra
+• Developed and maintained responsive web pages using HTML, CSS, and JavaScript to support company products.
+• Implemented user interface components based on design speciﬁcations, improving overall usability and consistency.
+• Collaborated with senior developers to ﬁx UI bugs and enhance cross-browser compatibility.
+PROJECTS
+Automated Billing Trolley (IoT)
+• Designed an Io T-based smart shopping trolley using Arduino and embedded systems to automate billing inside retail
+stores.
+• Implemented automatic product detection and real-time cart item listing, generating the bill as items are added or
+removed.
+• Reduced manual checkout time by enabling instant bill generation at the trolley, improving customer convenience.
+EDUCATION
+D Y Patil Agriculture and Technical University, Talsande Aug 2023 – Aug 2027
+B.T ech in Computer Science Engineering (CGPA: 6.91/10) Kolhapur, Maharashtra
+• Coursework: C Programming, ASP .NET , Python, DevOps
+Leadership & Extracurricular Activities
+Quickheal Cyberwarrior Club 2024 – 2025
+President Kolhapur, Maharashtra
+• Leaded club activities focused on cybersecurity awareness and best practices among engineering students.
+• Coordinated events and sessions in collaboration with peers and faculty to increase student participation in cyber
+safety initiatives.
+Achievements
+• Completed IBM Python certiﬁcation, strengthening core programming and problem-solving skills in Python.
+• Completed Introduction to Cybersecurity certiﬁcation, gaining foundational knowledge of cyber threats, security
+principles, and best practices.
+• Earned an Ethical Hacking certiﬁcate, demonstrating understanding of vulnerability assessment and secure system
+practices.
+SKILLS
+Programming Languages: C, Python
+Web Technologies: HTML, CSS, JavaScript, ASP .NET
+Tools & Platforms: Git, GitHub, Arduino, Linux (basic), DevOps concepts
+Other: Problem Solving, UI Implementation, T eam Collaboration
+Awards
+• Best Anchor Award – D Y Patil University, T alsande (2025), for outstanding anchoring and event hosting.
+• Best Cyber Club National Award – Quickheal Foundation (2025), for leading the best performing cyber club among
+participating colleges.
+• Best Oﬄine Outreach – Quickheal Foundation (2025), for impactful oﬄine outreach initiatives under club activities.
